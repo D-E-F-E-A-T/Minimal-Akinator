@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+body{
+background:url(img/fondo.jpg) no-repeat center fixed;
+-webkit-backgroud-siz:cover;
+moz-backgroud-siz:cover;
+o-backgroud-siz:cover;
+background-size:cover;
+}
