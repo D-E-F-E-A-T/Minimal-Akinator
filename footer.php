@@ -2,7 +2,7 @@
 <br>
 <br>
 <footer id="footerdatos">
-                   <p id="footerp">VictxrLarixs, Luis Fernando &copy Akinator (No-Oficial) </p>
+                   <p id="footerp">VictxrLarixs &copy Akinator (No-Oficial) </p>
 </footer>
 
 <style type="text/css">
